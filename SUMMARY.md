@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Архитектура и моделирование данных](README.md)
+* [Методы инженерии и анализа данных](README.md)
+* [Архитектура и моделирование данных](<README (1).md>)
   * [Архитектура Data Warehouse](arkhitektura-i-modelirovanie-dannykh/arkhitektura-data-warehouse/README.md)
     * [Data Governance и аналитика в реальном времени](<Архитектура и моделирование данных/Архитектура Data Warehouse/Data Governance и аналитика в реальном времени.md>)
     * [Виртуальный Data Warehouse и его использование](<Архитектура и моделирование данных/Архитектура Data Warehouse/Виртуальный Data Warehouse и его использование.md>)
