@@ -59,12 +59,3 @@ icon: magnifying-glass-chart
 ****Заключение****
 
 Профилирование и анализ данных — это критически важные процессы для инженеров данных. Они помогают обеспечить высокое качество информации, необходимой для принятия обоснованных бизнес-решений. Регулярное профилирование позволяет не только выявлять текущие проблемы с данными, но и предотвращать их возникновение в будущем, что делает его неотъемлемой частью работы с большими данными.
-
-Citations:
-[1] https://bigdataschool.ru/blog/big-data-profiling.html
-[2] https://panoply.io/analytics-stack-guide/data-profiling-best-practices/
-[3] https://www.dqlabs.ai/blog/what-is-data-profiling/
-[4] https://www.secoda.co/glossary/data-profiling
-[5] https://www.talend.com/resources/what-is-data-profiling/
-[6] https://www.simplilearn.com/data-profiling-tools-and-best-practices-article
-[7] https://lakefs.io/blog/data-engineering-best-practices/
