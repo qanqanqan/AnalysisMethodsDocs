@@ -1,2 +1,0 @@
-# Архитектура Data Warehouse
-
