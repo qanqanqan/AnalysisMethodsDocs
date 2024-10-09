@@ -1,0 +1,2 @@
+# MapReduce и YARN кластер
+
