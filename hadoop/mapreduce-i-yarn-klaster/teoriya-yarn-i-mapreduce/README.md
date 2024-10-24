@@ -1,2 +1,0 @@
-# Теория YARN и MapReduce
-
