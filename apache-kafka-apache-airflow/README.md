@@ -1,2 +1,0 @@
-# Apache Kafka , Apache Airflow
-
